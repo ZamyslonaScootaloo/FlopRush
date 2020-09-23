@@ -96,7 +96,7 @@ MonoBehaviour:
   m_MinSize: {x: 909, y: 421}
   m_MaxSize: {x: 22004, y: 10021}
   vertical: 0
-  controlID: 99
+  controlID: 123
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -356,9 +356,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 76a5ffff
-      m_LastClickedID: -23178
-      m_ExpandedIDs: 22cdffff60fbffff6cfbffff
+      m_SelectedIDs: dc3c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: dc9bffffceccffff60fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -419,7 +419,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 180
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -459,20 +459,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Enemy
+    - Assets/GameObject
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Enemy
+  - Assets/GameObject
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Andrzej\Documents\GitHub\FlopRush\FlopRush
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7a340000
-    m_LastClickedID: 13434
-    m_ExpandedIDs: 00000000a6330000b633000000ca9a3b
+    m_SelectedIDs: d0330000
+    m_LastClickedID: 13264
+    m_ExpandedIDs: 00000000ca330000d833000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -500,7 +500,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a6330000
+    m_ExpandedIDs: 00000000ca330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -527,7 +527,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -684,9 +684,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -69.69854, y: -43.957695, z: -5.1969676}
+    m_Target: {x: 32.226593, y: -10.311881, z: 1.7956495}
     speed: 2
-    m_Value: {x: -69.69854, y: -43.957695, z: -5.1969676}
+    m_Value: {x: 32.226593, y: -10.311881, z: 1.7956495}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -724,21 +724,21 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.20838045, y: -0.6818706, z: 0.21279319, w: 0.6681415}
+    m_Target: {x: -0.24236079, y: -0.58797383, z: 0.19075018, w: -0.74787617}
     speed: 2
-    m_Value: {x: 0.2057355, y: -0.6844873, z: 0.21135794, w: 0.66669184}
+    m_Value: {x: -0.24205546, y: -0.5890489, z: 0.19109857, w: -0.74693495}
   m_Size:
-    m_Target: 61.18202
+    m_Target: 17.762285
     speed: 2
-    m_Value: 58.547386
+    m_Value: 17.762285
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -756,7 +756,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+  m_LastSceneViewRotation: {x: 0.3401309, y: 0.35932517, z: -0.14259565, w: 0.857309}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
