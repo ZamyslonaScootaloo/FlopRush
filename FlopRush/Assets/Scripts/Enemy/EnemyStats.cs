@@ -24,6 +24,7 @@ public class EnemyStats : MonoBehaviour
 		} else if(health <= 0) // jeżeli życie jest mniejsze to ustaw na 0
 		{
 			health = 0;
+			Destroy(this.gameObject);
 		}
 		#endregion 
 		if (Input.GetKeyDown(KeyCode.H)) // Sprawdzamy czy przeciwnik traci albo dostaje zycie
