@@ -899,7 +899,7 @@ PrefabInstance:
     - target: {fileID: 126965454451435389, guid: 840afde56ba5f3446aaacbb76c7208be,
         type: 3}
       propertyPath: speedBullet
-      value: 10
+      value: 130
       objectReference: {fileID: 0}
     - target: {fileID: 126965454451435393, guid: 840afde56ba5f3446aaacbb76c7208be,
         type: 3}
